@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Threejs-curve-mouse/static/css/main.23862a12.chunk.css",
+    "main.js": "/Threejs-curve-mouse/static/js/main.5dac1a64.chunk.js",
+    "main.js.map": "/Threejs-curve-mouse/static/js/main.5dac1a64.chunk.js.map",
+    "runtime-main.js": "/Threejs-curve-mouse/static/js/runtime-main.3ca0567c.js",
+    "runtime-main.js.map": "/Threejs-curve-mouse/static/js/runtime-main.3ca0567c.js.map",
+    "static/js/2.5a4e3c29.chunk.js": "/Threejs-curve-mouse/static/js/2.5a4e3c29.chunk.js",
+    "static/js/2.5a4e3c29.chunk.js.map": "/Threejs-curve-mouse/static/js/2.5a4e3c29.chunk.js.map",
+    "static/js/3.0b4a267b.chunk.js": "/Threejs-curve-mouse/static/js/3.0b4a267b.chunk.js",
+    "static/js/3.0b4a267b.chunk.js.map": "/Threejs-curve-mouse/static/js/3.0b4a267b.chunk.js.map",
+    "index.html": "/Threejs-curve-mouse/index.html",
+    "static/css/main.23862a12.chunk.css.map": "/Threejs-curve-mouse/static/css/main.23862a12.chunk.css.map",
+    "static/js/2.5a4e3c29.chunk.js.LICENSE.txt": "/Threejs-curve-mouse/static/js/2.5a4e3c29.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Threejs-curve-mouse/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ca0567c.js",
+    "static/js/2.5a4e3c29.chunk.js",
+    "static/css/main.23862a12.chunk.css",
+    "static/js/main.5dac1a64.chunk.js"
+  ]
+}
